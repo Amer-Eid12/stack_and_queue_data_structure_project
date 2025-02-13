@@ -1,0 +1,10 @@
+101|New York|Active
+102|London|Active
+103|Tokyo|Inactive
+104|Dubai|Active
+105|Paris|Cancelled
+106|Sydney|Active
+107|Berlin|Inactive
+108|Rome|Active
+109|Madrid|Active
+110|Singapore|Active
